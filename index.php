@@ -2,7 +2,7 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>
--=[ PakCyberArt&trade; ]=-</title>
+-=[ Risky Banna &trade; ]=-</title>
 
         <link rel="stylesheet" type="text/css" href="Babar.css" media="all,handheld"/>
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
